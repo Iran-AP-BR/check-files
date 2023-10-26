@@ -1,0 +1,9 @@
+**/.git
+**/__pycache__
+**/.vscode
+**/venv/
+**/.pyc
+**/*.sh
+**/.ipynb_checkpoints
+**/*.env
+notebooks/test/
